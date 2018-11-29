@@ -35,7 +35,7 @@ dimensionalidade
    
    - Foi calculado o erro de quantização e topográfico
    
-   - Foi feito o mapa SOM e U - Matrix
+   - Foi feito o mapa SOM
    
 ## Resultados
 
