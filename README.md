@@ -18,7 +18,7 @@ dimensionalidade
    
 ## Descrição de atividades
 
-   - Inicializar los pesos, $$ w_{ji} $$, con valores aleatorios pequeños, fijando la zona inicial de vecindad entre las neuronas de salida. 
+   - Inicializar los pesos, $ w_{ji} \aprox $, con valores aleatorios pequeños, fijando la zona inicial de vecindad entre las neuronas de salida. 
    
 ## Resultados
 
