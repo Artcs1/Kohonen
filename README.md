@@ -18,6 +18,9 @@ dimensionalidade
    
 ## Descrição de atividades
 
+
+### Rede de Kohonen Implementação
+
    - Inicialize os pesos, wji, com pequenos valores aleatórios, configurando a zona inicial da vizinhança entre os neurônios de saída.
    
    - Apresentar à rede uma informação de entrada na forma do vetor Ek = (e1, ..., eN), cujos componentes, ei, são valores contínuos.
@@ -28,6 +31,7 @@ dimensionalidade
    
    - Este procedimiento e feito ate atingir um numero máximo de iterações 
    
+### Test
    
 ## Resultados
 
