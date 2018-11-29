@@ -27,7 +27,7 @@ dimensionalidade
    
    - Determine o neurônio vencedor da camada de saída: será aquele cujo vetor de pesos, Wj, é o mais próximo da informação de entrada Ek. Lembre-se de que os componentes de Wj são os valores dos pesos das conexões entre esse neurônio, j e cada um dos neurônios de entrada. Para fazer isso, as distâncias entre os vetores Ek e Wj são calculadas para cada neurônio de saída.
    
-   - Uma vez encontrada a neurona vencedora, j *, se atualiza as suas conexões de entrada e também as neuronas vecinas (as que pertenciam a uma zona de vecindad, Zonaj).
+   - Uma vez encontrada a neurona vencedora, j *, se atualiza as suas conexões de entrada e também as neuronas vecinas (as que pertenciam a uma zona de vecindad, Zonaj). 
    
    - Este procedimiento e feito ate atingir um numero máximo de iterações 
    
@@ -39,4 +39,6 @@ dimensionalidade
    
 ## Resultados
 
-## Conclusões
+### MAPA SOM 
+
+![alt text](./heatmap.png "Logo Title Text 1")
