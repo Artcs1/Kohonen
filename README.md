@@ -44,3 +44,7 @@ dimensionalidade
 ![alt text](./heatmap.png "Logo Title Text 1")
 
    - Erro de quantização: 0.35901815917761964
+
+## Conclusões
+
+   - Observa-se que a estrutura topológica pode ser preservada
