@@ -33,7 +33,7 @@ dimensionalidade
    
 ### Test
    
-   - Foi calculado o erro de quantização e topográfico
+   - Foi calculado o erro de quantização
    
    - Foi feito o mapa SOM
    
@@ -42,3 +42,5 @@ dimensionalidade
 ### MAPA SOM 
 
 ![alt text](./heatmap.png "Logo Title Text 1")
+
+   - Erro de quantização: 0.35901815917761964
