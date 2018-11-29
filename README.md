@@ -33,6 +33,10 @@ dimensionalidade
    
 ### Test
    
+   - Foi calculado o erro de quantização e topográfico
+   
+   - Foi feito o mapa SOM e U - Matrix
+   
 ## Resultados
 
 ## Conclusões
