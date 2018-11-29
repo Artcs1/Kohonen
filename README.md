@@ -20,6 +20,8 @@ dimensionalidade
 
    - Inicializar los pesos, $ w_{ji} \aprox $, con valores aleatorios pequeños, fijando la zona inicial de vecindad entre las neuronas de salida. 
    
+   $ w_{ji} \aprox $
+   
 ## Resultados
 
 ## Conclusões
